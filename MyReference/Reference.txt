@@ -1,2 +1,12 @@
 video: React Node Tutorial Full ECommerce in 9 Hours 2021_480p
-updated video ref time:- 0:40:53
+updated video ref time:- 3:08:17
+
+=============
+command as follows
+==================
+amazana>npx create-react-app frontend
+amazana>npm init
+amazana>npm install express
+amazana> node backend/server.js
+yarn add express-async-handler
+amazana> npm install --save-dev nodemon
